@@ -1,0 +1,22 @@
+
+[
+  {
+    "id": 1,
+    "name" : "Diana",
+    "company": "123 Designs",
+    "phone": "555-555-5555"
+  },
+  {
+    "id": 1,
+    "name" : "Liz",
+    "company": "Hello Productions",
+    "phone": "222-444-6666"
+  },
+  {
+    "id": 1,
+    "name" : "Alejandra",
+    "company": "Arias Fence",
+    "phone": "111-222-3333nn"
+  }
+
+]
