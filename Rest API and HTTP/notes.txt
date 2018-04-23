@@ -1,0 +1,20 @@
+
+What is an API?
+
+- Stands for Application Programming Interface
+- Contract provided by one piece of software to another.
+- Structured request and response.
+
+What is an REST APIS
+
+- Stands for Representational State Transfer
+- Relies on a stateless, client-server protocol, almost always HTTP
+- Treats server objects as resources that can be created or destroyed
+- Can be used by virtually any programming language
+- All APIS have their own rules and structure. 
+
+HTTP Requests
+- GET: Retrieve data from a specified resource
+- POST: Submit data to be processed to a specified resource
+- PUT: Update a specified resource
+- DELETE: Delete a specified resource.
